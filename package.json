@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "dompurify": "^3.2.4",
-    "firebase": "^10.11.1",
+    "firebase": "^12.7.0",
     "marked": "^12.0.1",
     "next": "14.2.26",
     "react": "^18",
